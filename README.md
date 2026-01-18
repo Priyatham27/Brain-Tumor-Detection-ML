@@ -50,3 +50,14 @@ https://www.kaggle.com/datasets
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+---
+🧪 Sample Output
+
+Tumor Type: Glioma
+Confidence: 53.04%
+
+---
+⚠️ Disclaimer
+
+This project is for educational purposes only and is not a medical diagnosis system.
