@@ -44,8 +44,11 @@ Brain Tumor MRI Dataset from Kaggle:
 https://www.kaggle.com/datasets
 
 ---
-
+### Sample Images
+Example test images are available in the [`images/sample_images/`](images/sample_images/) folder.
 ## 🚀 How to Run the Project
+
+---
 
 ```bash
 pip install -r requirements.txt
